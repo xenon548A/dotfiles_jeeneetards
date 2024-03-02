@@ -17,6 +17,12 @@
 - In the ```i3/scripts/``` directory, there is a script to hide/toggle the i3bar, named ```i3togglebar.sh```,
   it hides the i3bar on pressing `mod/super+shift+h`, you can change this key upto your preferences.
 
+## Upcoming configs:
+- A JEENEETard themed TUI application for reality check(kinda like nallabot), and quotes.
+- GRUB custom background (JEENEETard based)
+- More Wallpapers like ABJ sir one.
+- Something like lock feature of i3, which lets you in only if you do padhai.
+
 > Terminal : Kitty
 
 > WM : i3
