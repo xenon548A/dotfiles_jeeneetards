@@ -17,6 +17,7 @@
 - In the ```i3/scripts/``` directory, there is a script to hide/toggle the i3bar, named ```i3togglebar.sh```,
   it hides the i3bar on pressing `mod/super+shift+h`, you can change this key upto your preferences.
 
+-----------------------------------------------------------------
 ## Upcoming configs:
 - A JEENEETard themed TUI application for reality check(kinda like nallabot), and quotes.
 - GRUB custom background (JEENEETard based)
@@ -32,6 +33,8 @@
 > menu, window-switcher, application-launcher : rofi
 
 > compositor: picom
+
+---------------------------------------------------------------
 ![image](https://github.com/xenon548A/dotfiles_jeeneetards/assets/81672229/cfa2928d-8a30-4b95-b094-ab99b96e035e) 
 ![image](https://github.com/xenon548A/dotfiles_jeeneetards/assets/81672229/c00b6f45-cd42-4c03-8592-95bd239a96a5)
 ![image](https://github.com/xenon548A/dotfiles_jeeneetards/assets/81672229/9391bfe6-6ab8-4ce0-9097-b0e10d4cdd89)
