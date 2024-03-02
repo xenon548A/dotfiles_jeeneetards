@@ -1,0 +1,49 @@
+//@theme "/usr/share/rofi/themes/gruvbox-dark-soft.rasi"
+@theme "/themes/cat.rasi"
+* {
+  // general
+  bg: #282828;
+  bgt: #28282895;
+  t: transparent;
+  fg: #d4be98;
+
+  selected-bg: @fg;
+  selected-fg: @bg;
+
+  // for windows
+  active: #a9b665;
+  urgent: #fb4934;
+}
+configuration{
+  display-drun: "Applications:";
+  display-window: "Windows:";
+  drun-display-format: "{icon} {name}";
+  font: "Fira Code 08";
+  show-icons: true;
+}
+window {
+  fullscreen: true;
+  padding: 35% 30%;       // you might want to ajust these to resize rofi.
+  transparency: "real";
+  background-color: @bgt;
+  border-color: @t;
+  border-radius: 4px;
+}
+	
+listview {
+  border: 0 0 0 0;
+  padding: 0 0 0 0;
+  scrollbar: false;
+}
+
+scrollbar {
+    width:        1px;
+    border:       0;
+    handle-color: @fg;
+    handle-width: 1px;
+    padding:      0 0;
+}
+
+entry {
+    placeholder: "";
+}
