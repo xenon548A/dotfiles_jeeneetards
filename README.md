@@ -18,7 +18,11 @@
   it hides the i3bar on pressing `mod/super+shift+h`, you can change this key upto your preferences.
 
 > Terminal : Kitty
+
 > WM : i3
+
 > bar : default i3bar
+
 > menu, window-switcher, application-launcher : rofi
+
 > compositor: picom
