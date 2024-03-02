@@ -15,6 +15,10 @@
   of the applications.
 - My super/MOD key in i3 is `alt`, you change it to whatever you want.
 - In the ```i3/scripts/``` directory, there is a script to hide/toggle the i3bar, named ```i3togglebar.sh```,
-  it hides the i3bar on pressing `mod/super+h`, you can change this key upto your preferences.
+  it hides the i3bar on pressing `mod/super+shift+h`, you can change this key upto your preferences.
 
 > Terminal : Kitty
+> WM : i3
+> bar : default i3bar
+> menu, window-switcher, application-launcher : rofi
+> compositor: picom
