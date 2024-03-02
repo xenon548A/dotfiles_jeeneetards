@@ -10,8 +10,11 @@
   - If the background does not change, then in the firefox search bar, put ```about:config```, 
     change ```toolkit.legacyUserProfileCustomizations.stylesheets``` to true,
     if it still does not change anything, then restart your computer (this worked for me).
-
 - I have set the image names very weirdly, so change them to your preferences, however you want.
-- For any customizations to this config's used applications, you can refer to the respective documentations of the applications.
+- For any customizations to this config's used applications, you can refer to the respective documentations 
+  of the applications.
+- My super/MOD key in i3 is `alt`, you change it to whatever you want.
+- In the ```i3/scripts/``` directory, there is a script to hide/toggle the i3bar, named ```i3togglebar.sh```,
+  it hides the i3bar on pressing `mod/super+h`, you can change this key upto your preferences.
 
 > Terminal : Kitty
